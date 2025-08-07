@@ -23,7 +23,7 @@ resource "docker_container" "nginx_container" {
   image = docker_image.nginx.image_id
   name  = "tutorial-nginx-container"
 
-  # Maps port 8000 on your machine to port 80 in the container
+  # Maps port 8000 on your machine to port 80 in container
   ports {
     internal = 80
     external = 8002
