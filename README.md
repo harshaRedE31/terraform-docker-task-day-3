@@ -1,5 +1,5 @@
 Terraform Docker Provisioning Task
-This repository contains the solution for the DevOps Internship Task 3 from Elevate Labs. The primary objective of this task is to provision a local Docker container using Terraform, demonstrating an understanding of Infrastructure as Code (IaC) principles.
+The primary objective of this task is to provision a local Docker container using Terraform, demonstrating an understanding of Infrastructure as Code (IaC) principles.
 
 
 
